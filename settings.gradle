@@ -1,0 +1,5 @@
+rootProject.name = "kakao_navi_clone"
+include ':app'
+include ':api'
+include ':data'
+include ':customui'
